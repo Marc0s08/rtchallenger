@@ -1,0 +1,190 @@
+{
+  "FA": [
+    {
+      "id": "13",
+      "nickname": "RyuKyo竜強#Bdrgs",
+      "rotaPrincipal": "TOP",
+      "rotaSecundaria": "TOP",
+      "micro": 7,
+      "macro": 7,
+      "eloAtual": "ESMERALDA",
+      "eloMaisAlto": "GRÃO MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2FWhatsApp%20Image%202025-11-24%20at%2015.30.55.jpeg?alt=media&token=bc01c3bc-cb00-4b23-8630-e8ca2c8dca68"
+    },
+    {
+      "id": "1",
+      "nickname": "XxXToshiroXxX#DMF",
+      "rotaPrincipal": "TOP",
+      "rotaSecundaria": "SUPORTE",
+      "micro": 8,
+      "macro": 9,
+      "eloAtual": "DIAMANTE",
+      "eloMaisAlto": "MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2FXxXToshiroXxX%23DMF.jpg?alt=media&token=3fd2c298-3121-4f90-b832-57c25df37cf4"
+    },
+    {
+      "id": "2",
+      "nickname": "Smaug#4444",
+      "rotaPrincipal": "TOP",
+      "rotaSecundaria": "JUNGLER",
+      "micro": 5,
+      "macro": 5,
+      "eloAtual": "MESTRE",
+      "eloMaisAlto": "DESAFIANTE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Fsmaug.jpg?alt=media&token=80af1094-c039-4880-9920-ce0f0fb0e7e1"
+    },
+    {
+      "id": "3",
+      "nickname": "BRC INDRA#4382",
+      "rotaPrincipal": "MIDLANER",
+      "rotaSecundaria": "ADCARRY",
+      "micro": 10,
+      "macro": 8,
+      "eloAtual": "DIAMANTE",
+      "eloMaisAlto": "MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Findra.jpg?alt=media&token=5e79a4ae-5b0b-4a58-9fb1-46a38c6cb20d"
+    },
+    {
+      "id": "5",
+      "nickname": "BRC Gowther#TANK",
+      "rotaPrincipal": "SUPORTE",
+      "rotaSecundaria": "MIDLANER",
+      "micro": 7,
+      "macro": 7,
+      "eloAtual": "MESTRE",
+      "eloMaisAlto": "MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Fgowther.jpg?alt=media&token=e45e9b27-f7ce-442d-aa5a-59dcbfce927e"
+    },
+    {
+      "id": "4",
+      "nickname": "IFrreStyle",
+      "rotaPrincipal": "TOP",
+      "rotaSecundaria": "JUNGLER",
+      "micro": 6,
+      "macro": 7,
+      "eloAtual": "DIAMANTE",
+      "eloMaisAlto": "GRÃO MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Ffreestyle.jpeg?alt=media&token=bf006081-68eb-45a8-a3de-e5807ae4ca8a"
+    },
+    {
+      "id": "6",
+      "nickname": "DFX Utopia",
+      "rotaPrincipal": "SUPORTE",
+      "rotaSecundaria": "JUNGLER",
+      "micro": 6,
+      "macro": 10,
+      "eloAtual": "MESTRE",
+      "eloMaisAlto": "GRÃO MESTRE",
+      "foto": "https://drive.google.com/open?id=1v6I7Vj-XTeKd18DKAxKB38hSZrLkt-bS"
+    },
+    {
+      "id": "8",
+      "nickname": "IDM Tayztan#CR9",
+      "rotaPrincipal": "ADCARRY",
+      "rotaSecundaria": "JUNGLER",
+      "micro": 8,
+      "macro": 9,
+      "eloAtual": "DIAMANTE",
+      "eloMaisAlto": "MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Fchronos.jpg?alt=media&token=c6ad5720-669b-4c92-8e96-8feb92c614ad"
+    },
+    {
+      "id": "7",
+      "nickname": "BKS Boo#266",
+      "rotaPrincipal": "TOP",
+      "rotaSecundaria": "SUPORTE",
+      "micro": 7,
+      "macro": 8,
+      "eloAtual": "DIAMANTE",
+      "eloMaisAlto": "MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Fboo.png?alt=media&token=fde62ff8-1455-4373-90ee-fd07e0c62464"
+    },
+    {
+      "id": "10",
+      "nickname": "5 I N C O#555",
+      "rotaPrincipal": "JUNGLER",
+      "rotaSecundaria": "TOP",
+      "micro": 8,
+      "macro": 8,
+      "eloAtual": "MESTRE",
+      "eloMaisAlto": "GRÃO MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Fcinco.PNG?alt=media&token=ff7bc65b-4dc2-4529-a011-482039a491a8"
+    },
+    {
+      "id": "9",
+      "nickname": "TheNightKeeper#kayn",
+      "rotaPrincipal": "TOP",
+      "rotaSecundaria": "MIDLANER",
+      "micro": 10,
+      "macro": 8,
+      "eloAtual": "OURO",
+      "eloMaisAlto": "MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Fnightkeeper.jpg?alt=media&token=5f7e92d5-20f7-4d42-aba4-afc6e88de0c4"
+    },
+    {
+      "id": "11",
+      "nickname": "DFX Uzi#GEN10",
+      "rotaPrincipal": "ADCARRY",
+      "rotaSecundaria": "MIDLANER",
+      "micro": 8,
+      "macro": 8,
+      "eloAtual": "GRÃO MESTRE",
+      "eloMaisAlto": "DESAFIANTE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2FIMG_4242%20-%20Raii%20Salvatore.jpeg?alt=media&token=a63544fd-49b2-4d63-b56f-c149094365dd"
+    },
+    {
+      "id": "14",
+      "nickname": "TerrorTheLegend#Lenda",
+      "rotaPrincipal": "MIDLANER",
+      "rotaSecundaria": "ADCARRY",
+      "micro": 7,
+      "macro": 7,
+      "eloAtual": "DIAMANTE",
+      "eloMaisAlto": "MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/galahad.jpg?alt=media&token=603e8a02-a8d0-4bca-9654-aabb4c49dddc"
+    },
+    {
+      "id": "15",
+      "nickname": "KØNAN YAGAMI#3624",
+      "rotaPrincipal": "JUNGLER",
+      "rotaSecundaria": "MIDLANER",
+      "micro": 7,
+      "macro": 9,
+      "eloAtual": "DIAMANTE",
+      "eloMaisAlto": "MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Fcaique.jpeg?alt=media&token=1546c927-76eb-45f4-8199-3c0f45e93e89"
+    },
+    {
+      "id": "12",
+      "nickname": "Monosett22cm#sett",
+      "rotaPrincipal": "ADCARRY",
+      "rotaSecundaria": "TOP",
+      "micro": 6,
+      "macro": 6,
+      "eloAtual": "ESMERALDA",
+      "eloMaisAlto": "GRÃO MESTRE",
+      "foto": "https://firebasestorage.googleapis.com/v0/b/barons-cave.appspot.com/o/camp%2Fjalim.jpeg?alt=media&token=9f9e4b38-a0e5-485a-98cf-342fd4f8e6b1"
+    }
+  ],
+  "NIGHTSPIRE": {
+    "TOP": null,
+    "JUNGLER": null,
+    "MIDLANER": null,
+    "ADCARRY": null,
+    "SUPORTE": null
+  },
+  "RAGNAROK": {
+    "TOP": null,
+    "JUNGLER": null,
+    "MIDLANER": null,
+    "ADCARRY": null,
+    "SUPORTE": null
+  },
+  "ABISSAL": {
+    "TOP": null,
+    "JUNGLER": null,
+    "MIDLANER": null,
+    "ADCARRY": null,
+    "SUPORTE": null
+  }
+}

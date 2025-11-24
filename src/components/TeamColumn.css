@@ -1,0 +1,25 @@
+.team-column {
+  width: 280px;
+  padding: 12px;
+  background: rgba(15, 15, 25, 0.95);
+  border-radius: 10px;
+  box-shadow: 0 0 18px #000;
+  border: 1px solid rgba(255, 215, 128, 0.15);
+  backdrop-filter: blur(3px);
+}
+
+.team-title {
+  text-align: center;
+  margin-bottom: 12px;
+  font-size: 1.4rem;
+  color: #e9d8a6;
+  font-family: "Cinzel", serif;
+  letter-spacing: 1px;
+  text-shadow: 0 0 6px rgba(255, 200, 100, 0.4);
+}
+
+.team-content {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

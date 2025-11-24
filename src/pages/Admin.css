@@ -1,0 +1,149 @@
+/* Container principal */
+.admin-container {
+  display: flex;
+  background: #0c0c14;
+  min-height: 100vh;
+  color: #e9d8a6;
+  font-family: "Cinzel", serif;
+}
+
+/* Barra lateral de Free Agents */
+.sidebar {
+  width: 250px;
+  background: rgba(15, 15, 25, 0.95);
+  padding: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  overflow-y: auto;
+  border-right: 1px solid rgba(255, 215, 128, 0.15);
+}
+
+.sidebar h2 {
+  text-align: center;
+  margin-bottom: 12px;
+  font-size: 1.2rem;
+  color: #e9d8a6;
+  text-shadow: 0 0 6px rgba(255, 200, 100, 0.4);
+}
+
+/* Área dos times */
+.teams-container {
+  flex: 1;
+  display: flex;
+  gap: 0;
+  padding: 20px;
+}
+
+/* Colunas dos times */
+.team-column {
+  flex: 1;
+  padding: 12px;
+  background: rgba(15, 15, 25, 0.95);
+  border-radius: 10px;
+  box-shadow: 0 0 18px #000;
+  border: 1px solid rgba(255, 215, 128, 0.15);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.team-title {
+  text-align: center;
+  margin-bottom: 8px;
+  font-size: 1.2rem;
+  color: #e9d8a6;
+  text-shadow: 0 0 6px rgba(255, 200, 100, 0.4);
+}
+
+.team-content {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* Slots de posição */
+.position-slot {
+  width: 100%;
+  height: 160px;
+  border: 1px dashed rgba(255, 215, 128, 0.3);
+  border-radius: 8px;
+  padding: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.1);
+}
+
+/* Cards dentro do slot ocupam 100% */
+.position-slot > .card-horizontal.in-slot {
+  width: 100% !important;
+  height: 100% !important;
+  transition: all 0.2s ease;
+}
+
+/* Cards menores na barra lateral */
+.card-horizontal {
+  width: 200px;
+  height: 120px;
+  background: #0f0f1a;
+  color: white;
+  border-radius: 8px;
+  padding: 6px;
+  display: flex;
+  gap: 6px;
+  align-items: center;
+  box-shadow: 0 0 8px #000;
+  transition: all 0.2s ease;
+}
+
+.card-horizontal.in-slot {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.card-photo {
+  width: 50px;
+  height: 50px;
+  overflow: hidden;
+  border-radius: 4px;
+}
+
+.card-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card-info {
+  flex: 1;
+}
+
+.card-nick {
+  font-size: 0.9rem;
+  color: #e9d8a6;
+}
+
+.card-info p {
+  margin: 2px 0;
+  font-size: 0.8rem;
+}
+
+.elos {
+  margin-top: 4px;
+  display: flex;
+  gap: 6px;
+}
+
+.elo img {
+  width: 16px;
+  height: 16px;
+}
+
+/* Efeito visual ao arrastar */
+.card-dragging {
+  transform: scale(1.05) !important;
+  box-shadow: 0 8px 20px rgba(255, 215, 128, 0.6) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
